@@ -58,15 +58,15 @@
   <br>7月, 2017.
 
 - **小田 悠介**, Philip Arthur, Graham Neubig, 吉野 幸一郎, and 中村 哲.
-  <br>二値符号予測と誤り訂正に基づくコンパクトなニューラルネットワーク翻訳モデル.
+  <br>[二値符号予測と誤り訂正に基づくコンパクトなニューラルネットワーク翻訳モデル](https://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/A7-2.pdf).
   <br>In 言語処理学会 第23回年次大会, 茨城, 3月, 2017.
 
 - 森下 睦, **小田 悠介**, Graham Neubig, 吉野 幸一郎, 須藤 克仁, and 中村 哲.
-  <br>ニューラル機械翻訳におけるミニバッチ構成法の違いによる影響の調査.
+  <br>[ニューラル機械翻訳におけるミニバッチ構成法の違いによる影響の調査](https://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/A7-1.pdf).
   <br>In 言語処理学会 第23回年次大会, 茨城, 3月, 2017.
 
 - 札場 寛之, **小田 悠介**, 吉野 幸一郎, Graham Neubig, and 中村 哲.
-  <br>目的言語側の構造を考慮した自然言語からの構文的に正しいソースコード生成.
+  <br>[目的言語側の構造を考慮した自然言語からの構文的に正しいソースコード生成](https://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/A6-5.pdf).
   <br>In 言語処理学会 第23回年次大会, 茨城, 3月, 2017.
   
 - Graham Neubig, Chris Dyer, Yoav Goldberg, Austin Matthews, Waleed Ammar, Antonios Anastasopoulos, Miguel Ballesteros, David Chiang, Daniel Clothiaux, Trevor Cohn, Kevin Duh, Manaal Faruqui Cynthia Gan, Dan Garrette, Yangfeng Ji, Lingpeng Kong, Adhiguna Kuncoro, Gaurav Kumar, Chaitanya Malaviya, Paul Michel, **Yusuke Oda**, Matthew Richardson, Naomi Saphra, Swabha Swayamdipta, Pengcheng Yin.
@@ -80,7 +80,7 @@
   <br>In Proc. COLING, Osaka, Japan, December, 2016.
 
 - 帖佐 克己, **小田 悠介**, Sakriani Sakti, 吉野 幸一郎, and 中村 哲.
-  <br>同時音声翻訳のための構文情報を用いた文分割に基づく機械翻訳.
+  <br>[同時音声翻訳のための構文情報を用いた文分割に基づく機械翻訳](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=176456&item_no=1).
   <br>In 情報処理学会 第229回自然言語処理研究会 (第3回自然言語処理シンポジウム), 東京, 12月, 2016.
 
 - **小田 悠介**, Philip Arthur, Graham Neubig, and 中村 哲.
@@ -94,29 +94,29 @@
   <br>In NLP若手の会 第11回シンポジウム, 和歌山, 8月, 2016.
 
 - 森下 睦, **小田 悠介**, Graham Neubig, 吉野 幸一郎, and 中村 哲.
-  <br>様々な分野における対訳コーパスを用いた構文解析器の自己学習効果の検証.
+  <br>[様々な分野における対訳コーパスを用いた構文解析器の自己学習効果の検証](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=159457&item_no=1&page_id=13&block_id=8).
   <br>In 情報処理学会 第226回NL・第111回SLP合同研究発表会, 東京, 5月, 2016.
 
   - **学生奨励賞**
 
 - **小田 悠介**, 工藤 拓, 中川 哲治, and 渡辺 太郎.
-  <br>複数の事前並べ替え候補を用いた句に基づく統計的機械翻訳.
+  <br>[複数の事前並べ替え候補を用いた句に基づく統計的機械翻訳](https://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/A4-4.pdf).
   <br>In 言語処理学会 第22回年次大会, 宮城, 3月, 2016.
 
   - **優秀賞**
 
 - 札場 寛之, **小田 悠介**, Graham Neubig, 吉野 幸一郎, and 中村 哲.
-  <br>統計的機械翻訳を用いた自然言語からのソースコード生成.
+  <br>[統計的機械翻訳を用いた自然言語からのソースコード生成](https://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/D4-5.pdf).
   <br>In 言語処理学会 第22回年次大会, 宮城, 3月, 2016.
   
 ## 2015
 
 - Hiroyuki Fudaba, **Yusuke Oda**, Koichi Akabe, Graham Neubig, Hideaki Hata, Sakriani Sakti, Tomoki Toda, and Satoshi Nakamura.
-  <br>Pseudogen: A Tool to Automatically Generate Pseudo-code from Source Code.
+  <br>[Pseudogen: A Tool to Automatically Generate Pseudo-code from Source Code](https://ieeexplore.ieee.org/document/7372074).
   <br>In Proc. ASE, Lincoln, USA, November, 2015.
 
 - **Yusuke Oda**, Hiroyuki Fudaba, Graham Neubig, Hideaki Hata, Sakriani Sakti, Tomoki Toda, and Satoshi Nakamura.
-  <br>Learning to Generate Pseudo-code from Source Code using Statistical Machine Translation.
+  <br>[Learning to Generate Pseudo-code from Source Code using Statistical Machine Translation](https://ieeexplore.ieee.org/document/7372045).
   <br>In Proc. ASE, Lincoln, USA, November, 2015.
 
 - 札場 寛之, **小田 悠介**, Graham Neubig, 吉野 幸一郎, and 中村 哲.
@@ -126,7 +126,7 @@
   - **奨励賞**
 
 - 札場 寛之, **小田 悠介**, Graham Neubig, 畑 秀明, Sakriani Sakti, 戸田 智基, and 中村 哲.
-  <br>機械翻訳を用いた擬似コード生成による学習者支援.
+  <br>[機械翻訳を用いた擬似コード生成による学習者支援](https://ahcweb01.naist.jp/papers/conference/2015/201509_JSiSE_Fudaba_1/201509_JSiSE_Fudaba_1.paper.pdf).
   <br>In 教育システム情報学会 第40回全国大会, 徳島, 9月, 2015.
 
   - **奨励賞**
@@ -140,27 +140,27 @@
   <br>In Proc. NAACL-HLT, Denver, USA, June, 2015.
 
 - **小田 悠介**, Graham Neubig, Sakriani Sakti, 戸田 智基, and 中村 哲.
-  <br>不完全な文の構文解析に基づく同時音声翻訳.
+  <br>[不完全な文の構文解析に基づく同時音声翻訳](https://www.anlp.jp/proceedings/annual_meeting/2015/pdf_dir/A3-4.pdf).
   <br>In 言語処理学会 第21回年次大会, 京都, 3月, 2015.
   
   - **優秀賞**
 
 - **小田 悠介**, Graham Neubig, 波多腰 優斗, Sakriani Sakti, 戸田 智基, and 中村 哲.
-  <br>解析失敗の発生しにくいPCFG-LA句構造構文解析.
+  <br>[解析失敗の発生しにくいPCFG-LA句構造構文解析](https://www.anlp.jp/proceedings/annual_meeting/2015/pdf_dir/P1-28.pdf).
   <br>In 言語処理学会 第21回年次大会, 京都, 3月, 2015.
   
 - **小田 悠介** and Graham Neubig.
-  <br>統計的機械翻訳を用いた自動コメント生成.
+  <br>[統計的機械翻訳を用いた自動コメント生成](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=112679&item_no=1).
   <br>In 情報処理学会 ソフトウェア工学研究会 ウィンターワークショップ2015, 沖縄, 1月, 2015.
   
 ## 2014
 
 - Graham Neubig, Katsuhito Sudoh, **Yusuke Oda**, Kevin Duh, Hajime Tsukada and Masaaki Nagata.
-  <br>The NAIST-NTT Ted Talk Treebank.
+  <br>[The NAIST-NTT Ted Talk Treebank](http://www.phontron.com/paper/neubig14iwslt.pdf).
   <br>In Proc. IWSLT, Lake Tahoe, USA, December, 2014.
 
 - **小田 悠介**, 札場 寛之, ニュービッグ グラム, サクティ サクリアニ, 戸田 智基, and 中村 哲.
-  <br>ソースコード構文木からの統計的自動コメント生成.
+  <br>[ソースコード構文木からの統計的自動コメント生成](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=107440&item_no=1).
   <br>In 情報処理学会 第219回自然言語処理研究会, 東京, 12月, 2014.
 
 - **小田 悠介**.
@@ -184,7 +184,7 @@
   <br>In Proc. ACL, Baltimore, USA, June, 2014.
   
 - **小田 悠介**, ニュービッグ グラム, サクティ サクリアニ, 戸田 智基, and 中村 哲.
-  <br>自動プログラミングへ向けた問題回答コーパスの収集と考察.
+  <br>[自動プログラミングへ向けた問題回答コーパスの収集と考察](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=101211&item_no=1).
   <br>In 情報処理学会 第216回自然言語処理研究会, 東京, 5月, 2014.
   
 - **小田 悠介**, 笹倉 隆史, 角森 唯子, 赤部 晃一, 大島 悠司, 鶴田 さくら, 西垣 友理, 田代 光輝, and 中村 哲.
@@ -194,7 +194,7 @@
   - **プレゼンテーション賞**
   
 - **小田 悠介**, Graham Neubig, 清水 宏晃, Sakriani Sakti, 戸田 智基, and 中村 哲.
-  <br>翻訳精度の最大化による同時音声翻訳のための文分割法.
+  <br>[翻訳精度の最大化による同時音声翻訳のための文分割法](https://www.anlp.jp/proceedings/annual_meeting/2014/pdf_dir/A1-5.pdf).
   <br>In 言語処理学会 第20回年次大会, 北海道, 3月, 2014.
   
 ## 2013
