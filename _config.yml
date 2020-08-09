@@ -1,0 +1,6 @@
+# Jekyll configs.
+name: Odashi's GitHub page
+description: Odashi's GitHub page
+url: "http://odashi.github.io"
+markdown: GFM
+highlighter: rouge
