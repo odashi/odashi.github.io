@@ -11,7 +11,7 @@ $i$ 番目の単語 $w_i$ は **語彙 (vocabulary)** $\mathcal{V}$ に含まれ
 例えば英語であれば，
 $S := \textrm{"this" "is" "a" "pen" "."}$，
 $w_1 = \textrm{"this"}$，
-$\mathcal{V} := \left\{ \textrm{"the"}, \textrm{"of"}, \textrm{"."}, \cdots \right\}$
+$\mathcal{V} := \left\\{ \textrm{"the"}, \textrm{"of"}, \textrm{"."}, \cdots \right\\}$
 などと表すことができる．
 $\mathcal{V}$ に含まれる単語の種類数は $|\mathcal{V}|$ と表すことにする．
 
