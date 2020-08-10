@@ -4,3 +4,5 @@ description: Odashi's GitHub page
 url: "http://odashi.github.io"
 markdown: GFM
 highlighter: rouge
+plugins:
+  - jekyll-sitemap
