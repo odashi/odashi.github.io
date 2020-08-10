@@ -31,9 +31,8 @@
 - **小田 悠介**, Philip Arthur, Graham Neubig, 吉野 幸一郎, 中村 哲
   <br>[二値符号予測と誤り訂正を用いたニューラル翻訳モデル](https://www.jstage.jst.go.jp/article/jnlp/25/2/25_167/_article/-char/ja/)
   <br>In 自然言語処理, 第25巻2号, 3月, 2018.
-  
-  - **アジア太平洋機械翻訳協会 長尾賞 学生奨励賞**
-  - **言語処理学会 論文賞**
+  <br>**アジア太平洋機械翻訳協会 長尾賞 学生奨励賞**
+  <br>**言語処理学会 論文賞**
   
 ## 2017
 
@@ -90,8 +89,7 @@
 - **小田 悠介**, Philip Arthur, Graham Neubig, 中村 哲
   <br>二値符号予測によるニューラルネット翻訳
   <br>In NLP若手の会 第11回シンポジウム, 和歌山, 8月, 2016.
-
-  - **奨励賞**
+  <br>**奨励賞**
 
 - 札場 寛之, **小田 悠介**, Graham Neubig, 吉野 幸一郎, 中村 哲
   <br>自然言語からの構文的に正しいソースコード生成
@@ -100,14 +98,12 @@
 - 森下 睦, **小田 悠介**, Graham Neubig, 吉野 幸一郎, 中村 哲
   <br>[様々な分野における対訳コーパスを用いた構文解析器の自己学習効果の検証](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=159457&item_no=1&page_id=13&block_id=8)
   <br>In 情報処理学会 第226回NL・第111回SLP合同研究発表会, 東京, 5月, 2016.
-
-  - **学生奨励賞**
+  <br>**学生奨励賞**
 
 - **小田 悠介**, 工藤 拓, 中川 哲治, 渡辺 太郎
   <br>[複数の事前並べ替え候補を用いた句に基づく統計的機械翻訳](https://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/A4-4.pdf)
   <br>In 言語処理学会 第22回年次大会, 宮城, 3月, 2016.
-
-  - **優秀賞**
+  <br>**優秀賞**
 
 - 札場 寛之, **小田 悠介**, Graham Neubig, 吉野 幸一郎, 中村 哲
   <br>[統計的機械翻訳を用いた自然言語からのソースコード生成](https://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/D4-5.pdf)
@@ -126,14 +122,12 @@
 - 札場 寛之, **小田 悠介**, Graham Neubig, 吉野 幸一郎, 中村 哲
   <br>統計的機械翻訳による自然言語からソースコードへの変換の検討
   <br>In NLP若手の会 第10回シンポジウム, 石川, 9月, 2015.
-
-  - **奨励賞**
+  <br>**奨励賞**
 
 - 札場 寛之, **小田 悠介**, Graham Neubig, 畑 秀明, Sakriani Sakti, 戸田 智基, 中村 哲
   <br>[機械翻訳を用いた擬似コード生成による学習者支援](https://ahcweb01.naist.jp/papers/conference/2015/201509_JSiSE_Fudaba_1/201509_JSiSE_Fudaba_1.paper.pdf)
   <br>In 教育システム情報学会 第40回全国大会, 徳島, 9月, 2015.
-
-  - **奨励賞**
+  <br>**奨励賞**
   
 - **Yusuke Oda**, Graham Neubig, Sakriani Sakti, Tomoki Toda, Satoshi Nakamura
   <br>[Syntax-based Simultaneous Translation through Prediction of Unseen Syntactic Constituents](http://aclweb.org/anthology/P15-1020)
@@ -146,8 +140,7 @@
 - **小田 悠介**, Graham Neubig, Sakriani Sakti, 戸田 智基, 中村 哲
   <br>[不完全な文の構文解析に基づく同時音声翻訳](https://www.anlp.jp/proceedings/annual_meeting/2015/pdf_dir/A3-4.pdf)
   <br>In 言語処理学会 第21回年次大会, 京都, 3月, 2015.
-  
-  - **優秀賞**
+  <br>**優秀賞**
 
 - **小田 悠介**, Graham Neubig, 波多腰 優斗, Sakriani Sakti, 戸田 智基, 中村 哲
   <br>[解析失敗の発生しにくいPCFG-LA句構造構文解析](https://www.anlp.jp/proceedings/annual_meeting/2015/pdf_dir/P1-28.pdf)
@@ -194,8 +187,7 @@
 - **小田 悠介**, 笹倉 隆史, 角森 唯子, 赤部 晃一, 大島 悠司, 鶴田 さくら, 西垣 友理, 田代 光輝, 中村 哲
   <br>オンライン・コミュニティの盛衰と挨拶表現の関連性の調査
   <br>In 情報社会学会 2014年度研究発表大会, 神奈川, 5月, 2014.
-
-  - **プレゼンテーション賞**
+  <br>**プレゼンテーション賞**
   
 - **小田 悠介**, Graham Neubig, 清水 宏晃, Sakriani Sakti, 戸田 智基, 中村 哲
   <br>[翻訳精度の最大化による同時音声翻訳のための文分割法](https://www.anlp.jp/proceedings/annual_meeting/2014/pdf_dir/A1-5.pdf)
@@ -214,8 +206,7 @@
 - **小田 悠介**
   <br>プログラム間の類似性の定量化手法
   <br>In 教育システム情報学会 関西支部 平成24年度学生研究発表会, 大阪, 3月, 2013
-  
-  - **優秀賞**
+  <br>**優秀賞**
   
 ## 2012
 
