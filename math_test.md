@@ -1,7 +1,11 @@
-This is inline formula: $E = mc^2$
+- Inline formula with `$ ... $`: $E = mc^2$
 
-$$ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
+- Inline formula with `\\( ... \\)`: \\( E = mc^2 \\)
 
-\\( x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} \\)
+- Block formula with `$$ ... $$`:
 
-\\[ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} \\]
+  $$ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
+
+- Block formula with `\\[ ... \\]`:
+
+  \\[ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} \\]
