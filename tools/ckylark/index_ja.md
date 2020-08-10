@@ -19,7 +19,7 @@ Ckylark のインストールには以下のツール・ライブラリが必要
 
 ### 手順
 
-Github 上の最新版 を入手します。
+[Github 上の最新版](https://github.com/odashi/ckylark) を入手します。
 以下のコマンドを実行します。
 
 ```sh
