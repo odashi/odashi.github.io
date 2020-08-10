@@ -39,6 +39,6 @@ $$\log \mathrm{Pr}(S; \Theta) = \sum_{w \in \mathcal{V}} N_{w_i} \log P_{w_i}$$
 対数は狭義単調増加関数なので，対数を取る前後で式の値が最大になる $\Theta$ は変化しないことに注意する．
 この式を最大化すれば良いが，$P_w$ は確率なので，その総和が1になるという確率の公理を満たさなければならない．
 結局，解くべき問題は次の形となる．
-$$\begin{array}{ll} \mathrm{maximize} \sum_{w \in \mathcal{V}} N_{w_i} \log P_{w_i} \\ \mathrm{s.t.} \sum{w \in \mathcal{V}} P_w = 1 \end{array}	$$
+$$\begin{array}{ll} \mathrm{maximize} \sum_{w \in \mathcal{V}} N_{w_i} \log P_{w_i} \\\\ \mathrm{s.t.} \sum{w \in \mathcal{V}} P_w = 1 \end{array}	$$
 
 	
