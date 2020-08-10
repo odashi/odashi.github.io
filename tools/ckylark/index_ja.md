@@ -101,7 +101,7 @@ This/DT is/VBZ a/DT pen/NN ./.
 その他の言語・ドメインについては下記リンク先で公開しているものを使用可能です。
 また、ユーザが独自に文法モデルを作成することも可能です。
 
-- [Ckylark の文法モデル](/tools.ckylark/model_ja)
+- [Ckylark の文法モデル](/tools/ckylark/model_ja)
 
 英語の単語分割には Stanford Tokenizer などを使用することができます。
 日本語の単語分割には KyTea を使用して下さい (JDC モデルが KyTea 準拠になっています)。
