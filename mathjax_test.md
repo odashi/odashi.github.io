@@ -1,3 +1,5 @@
+# MathJax Test Page
+
 - Inline formula with `$ ... $`: $E = mc^2$
 
 - Inline formula with `\\( ... \\)`: \\( E = mc^2 \\)
