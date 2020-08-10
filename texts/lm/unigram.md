@@ -40,7 +40,7 @@ $$\log \mathrm{Pr}(S; \Theta) = \sum_{w \in \mathcal{V}} N_{w_i} \log P_{w_i}$$
 この式を最大化すれば良いが，$P_w$ は確率なので，その総和が1になるという確率の公理を満たさなければならない．
 結局，解くべき問題は次の形となる．
 $$\mathrm{maximize} \\ \sum_{w \in \mathcal{V}} N_{w_i} \log P_{w_i}$$
-$$\mathrm{s.t.} \\ \sum_{w \in \mathcal{V}} P_w = 1 \end{array}$$
+$$\mathrm{s.t.} \\ \sum_{w \in \mathcal{V}} P_w = 1$$
 これは普通の未定乗数法で解くことができ（やってみよう），次の解が得られる．
-$$P_w = \frac{N_w}{\sum_{w' \in \mathcal{V}} N_{w'}}$$
+$$P_w = \frac{N_w}{\sum_{w' \in \mathcal{V}} N_{w'}}	$$
 つまり，$S$ 中の $w$ の出現頻度そのものが確率の推定値となる．
