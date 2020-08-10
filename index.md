@@ -47,3 +47,11 @@ Working for natural language processing, speech processing, software engineering
 - [Publications](/publications.md)
 - [GitHub](https://github.com/odashi)
 - [Twitter](https://twitter.com/odashi_t)
+- Softwares
+  - [Ckylark](https://github.com/odashi/ckylark): Constituency parser of natural languages. ([Japanese manual](/tools/ckylark/index_ja))
+  - [Travatar](http://www.phontron.com/travatar/): Tree-to-string statistical machine translation toolkit.
+  - [MTEval](https://github.com/odashi/mteval): Automatic evaluation toolkit of machine translation outputs.
+  - [DyNet](https://github.com/clab/dynet): Deep learning toolkit (C++, Python, and so on).
+  - [primitiv](https://github.com/primitiv/primitiv): Deep learning toolkit (C++, Python, Rust).
+  - [NMTKit](https://github.com/odashi/nmtkit): Neural machine translation toolkit on DyNet.
+  - [latexify](https://github.com/odashi/latexify_py): Converter from Python functions to LaTeX formula.
