@@ -28,7 +28,17 @@ $$\mathrm{Pr}(S; \Theta) := \prod_{i=1}^N P_{w_i}$$
 ここで $\Theta$ は全ての $P_w$ の集合であり，確率分布の挙動に影響を与える **パラメータ (parameter)** である．
 $S$ は同じ単語を複数回含む可能性があるので，$w$ が $S$ に出現する回数を $N_w$ と書くことにすると，
 これは更に
-$$\mathrm{Pr}(S; \Theta) := \prod_{w \in \mathcal{V}} P_{w_i}^{N_w_i}$$
+$$\mathrm{Pr}(S; \Theta) := \prod_{w \in \mathcal{V}} P_{w_i}^{N_{w_i}}$$
 と纏めることができる．
+この $\mathrm{Pr}(S; \Theta)$ が最大になる $\Theta$ を求めればよいことが分かる．
+このような方針のことを一般的に **最尤推定 (maximum likelihood estimation)** と呼び，
+その対象となる確率分布関数（ここでは $\mathrm{Pr}(S; \Theta)$）を **尤度関数 (likelihood function)** と呼ぶ．
 
-結局，この $\mathrm{Pr}(S; \Theta)$ が最大になる $\Theta$，つまり	 $P_w$ の組合せを求めればよいことが分かる．
+上記の確率そのままでは累乗が厄介なので，対数を取って式を簡単な形に変形してしまおう．
+$$\log \mathrm{Pr}(S; \Theta) = \sum_{w \in \mathcal{V}} N_{w_i} \log P_{w_i}$$
+対数は狭義単調増加関数なので，対数を取る前後で式の値が最大になる $\Theta$ は変化しないことに注意する．
+この式を最大化すれば良いが，$P_w$ は確率なので，その総和が1になるという確率の公理を満たさなければならない．
+結局，解くべき問題は次の形となる．
+$$\begin{array}{ll} \mathrm{maximize} \sum_{w \in \mathcal{V}} N_{w_i} \log P_{w_i} \\ \mathrm{s.t.} \sum{w \in \mathcal{V}} P_w = 1 \end{array}	$$
+
+	
