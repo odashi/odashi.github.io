@@ -5,5 +5,3 @@ url: "http://odashi.github.io"
 markdown: GFM
 highlighter: rouge
 theme: jekyll-theme-cayman
-plugins:
-  - jekyll-sitemap
