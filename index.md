@@ -55,3 +55,4 @@ Working for natural language processing, speech processing, software engineering
   - [primitiv](https://github.com/primitiv/primitiv): Deep learning toolkit (C++, Python, Rust).
   - [NMTKit](https://github.com/odashi/nmtkit): Neural machine translation toolkit on DyNet.
   - [latexify](https://github.com/odashi/latexify_py): Converter from Python functions to LaTeX formula.
+- [試験的テキスト置き場](/text)
