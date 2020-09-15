@@ -12,11 +12,9 @@
   
 ## 2019
 
-- Toshiaki Nakazawa, Nobushige Doi, Shohei Higashiyama, Chenchen Ding, Raj Dabre, Hideya Mino, Isao Goto, Win Pa Pa, Anoop Kunchukuttan, Shantipriya Parida, Ondřej Bojar, Sadao Kurohashi
+- Toshiaki Nakazawa, Nobushige Doi, Shohei Higashiyama, Chenchen Ding, Raj Dabre, Hideya Mino, Isao Goto, Win Pa Pa, Anoop Kunchukuttan, **Yusuke Oda**, Shantipriya Parida, Ondřej Bojar, Sadao Kurohashi
   <br>[Overview of the 6th Workshop on Asian Translation](https://www.aclweb.org/anthology/D19-5201/)
   <br>In Proc. WAT, Hong Kong, November, 2019.
-  
-  - My name was not listed in authors for some reason.
 
 - Hiroaki Hayashi, **Yusuke Oda**, Alexandra Birch, Ioannis Konstas, Andrew Finch, Minh-Thang Luong, Graham Neubig, Katsuhito Sudoh
   <br>[Findings of the Third Workshop on Neural Generation and Translation](https://www.aclweb.org/anthology/D19-5601/)
