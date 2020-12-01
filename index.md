@@ -1,8 +1,7 @@
 # Yusuke Oda (Odashi)
 
-- Software Engineer at [Google Brain](https://research.google/teams/brain/).
-- Research Consultant at [LegalForce](https://www.legalforce.co.jp/).
-- Research Collaborator at [Tohoku University](http://www.tohoku.ac.jp/en/).
+- Chief Researcher at [LegalForce](https://www.legalforce.co.jp/).
+- Researcher at [Tohoku University](http://www.tohoku.ac.jp/en/).
 
 Working for natural language processing, speech processing, software engineering, and machine learning.
 
@@ -15,9 +14,11 @@ Working for natural language processing, speech processing, software engineering
 
 ## Work experience
 
-- Aug. 2020 - Now: Research Collaborator, Tohoku University
-- Aug. 2020 - Now: Research Consultant, LegalForce
-- Jun. 2019 - Now: Software Engineer, Google Brain
+- Dec. 2020 - Present: Researcher, Tohoku University
+- Dec. 2020 - Present: Chief Researcher, LegalForce
+- Aug. 2020 - Nov. 2020: Research Collaborator, Tohoku University
+- Aug. 2020 - Nov. 2020: Research Consultant, LegalForce
+- Jun. 2019 - Nov. 2020: Software Engineer, Google Brain
 - Apr. 2018 - Jun. 2019: Software Engineer, Google Translate
 - Apr. 2017 - Mar. 2018: Research Engineer, Advanced Translation Technology Laboratory, Advanced Speech Translation Research and Development Promotion Center (ASTREC), National Institute of Information and Communications Technology (NICT)
 - Apr. 2017 - Mar. 2018: External Collaborator, Perception and Language Understanding Group (PLU), National Institute of Advanced Industrial Science and Technology (AIST)
