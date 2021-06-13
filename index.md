@@ -1,6 +1,6 @@
 # Yusuke Oda (Odashi)
 
-- Chief Researcher at [LegalForce](https://www.legalforce.co.jp/).
+- Chief Researcher/Lead of Machine Intelligence Group at [LegalForce](https://www.legalforce.co.jp/).
 - Researcher at [Tohoku University](http://www.tohoku.ac.jp/en/).
 
 Working for natural language processing, speech processing, software engineering, and machine learning.
@@ -14,8 +14,9 @@ Working for natural language processing, speech processing, software engineering
 
 ## Work experience
 
+- May 2021 - Present: Chief Researcher/Lead of Machine Intelligence Group, LegalForce
 - Dec. 2020 - Present: Researcher, Tohoku University
-- Dec. 2020 - Present: Chief Researcher, LegalForce
+- Dec. 2020 - Apr. 2021: Chief Researcher, LegalForce
 - Aug. 2020 - Nov. 2020: Research Collaborator, Tohoku University
 - Aug. 2020 - Nov. 2020: Research Consultant, LegalForce
 - Jun. 2019 - Nov. 2020: Software Engineer, Google Brain
