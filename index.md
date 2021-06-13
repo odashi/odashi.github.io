@@ -2,6 +2,7 @@
 
 - Chief Researcher/Lead of Machine Intelligence Group at [LegalForce](https://www.legalforce.co.jp/).
 - Researcher at [Tohoku University](http://www.tohoku.ac.jp/en/).
+- [LinkedIn](https://www.linkedin.com/in/yusuke-oda-351a45214/)
 
 Working for natural language processing, speech processing, software engineering, and machine learning.
 
